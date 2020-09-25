@@ -1,0 +1,6 @@
+{
+    "rules": {
+        "extends": "tslint:recommended",
+        "semicolon": false
+    }
+}
